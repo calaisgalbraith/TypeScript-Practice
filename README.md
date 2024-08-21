@@ -1,2 +1,2 @@
 # TypeScript-Practice
-Repo to practice my TypeScript Skills
+Repo to practice & expand my TypeScript Skills
